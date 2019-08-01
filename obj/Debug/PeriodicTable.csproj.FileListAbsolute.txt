@@ -1,0 +1,62 @@
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.Form1.resources
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.HomeMenu.resources
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.ListOfElements.resources
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.MainTable.resources
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.MetalAndNonMetal.resources
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.Properties.Resources.resources
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.Synnonym.resources
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.csproj.GenerateResource.Cache
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\bin\Debug\PeriodicTable.exe.config
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\bin\Debug\PeriodicTable.exe
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\bin\Debug\PeriodicTable.pdb
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\bin\Debug\MetroFramework.Design.dll
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\bin\Debug\MetroFramework.dll
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.exe
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.pdb
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.ShortCutTecnic.resources
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.csproj.ResolveComReference.cache
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.LanthanideActinide.resources
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.MoreShortcutcs.resources
+I:\C\PeriodicTable\PeriodicTable\bin\Debug\PeriodicTable.exe.config
+I:\C\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.csproj.ResolveComReference.cache
+I:\C\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.exe
+I:\C\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.pdb
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.csprojResolveAssemblyReference.cache
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\bin\Debug\MaterialSkin.dll
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.ElementsInfo.resources
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\AKASH\Desktop\PeriodicTable\PeriodicTable\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\bin\Debug\PeriodicTable.exe.config
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.csproj.ResolveComReference.cache
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.exe
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.pdb
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\bin\Debug\PeriodicTable.exe
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\bin\Debug\PeriodicTable.pdb
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\bin\Debug\MaterialSkin.dll
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\bin\Debug\MetroFramework.Design.dll
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\bin\Debug\MetroFramework.dll
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\bin\Debug\MetroFramework.Fonts.dll
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.csprojResolveAssemblyReference.cache
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.ElementsInfo.resources
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.Form1.resources
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.HomeMenu.resources
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.LanthanideActinide.resources
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.ListOfElements.resources
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.MainTable.resources
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.MetalAndNonMetal.resources
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.MoreShortcutcs.resources
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.Properties.Resources.resources
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.ShortCutTecnic.resources
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.Synnonym.resources
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.csproj.GenerateResource.Cache
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.frmAndMe.resources
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.SonketAndAkorik.resources
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\bin\Debug\PeriodicTable.exe.manifest
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\bin\Debug\PeriodicTable.application
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.exe.manifest
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.application
+D:\PROJECTS\Visual Studio\Real Project\PeriodicTable\PeriodicTable\obj\Debug\PeriodicTable.frmInventor.resources
